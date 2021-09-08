@@ -15,6 +15,7 @@
     "dev": "nodemon ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "GabrielZanin1997 <gabriel.zaninde@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:ZaninDe/Discover2.git"
 }
